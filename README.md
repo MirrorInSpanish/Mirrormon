@@ -1,2 +1,1 @@
-# Mirrormon
-A virtual pet console written in the Python language - a work in progress.
+A collection of my C++ language journey.
