@@ -1,1 +1,1 @@
-A collection of my C++ language journey.
+A collection of my Python language journey.
